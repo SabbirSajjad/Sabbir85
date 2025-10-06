@@ -1,4 +1,4 @@
-![I am harun181]([https://github.com/SabbirSajjad/Sabbir85/blob/main/code.png?raw=true])
+![I am harun181](https://github.com/SabbirSajjad/Sabbir85/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Sabbir Sajjad</h1>
 <h3 align="center">Programmer| Web Designer | Content Creator</h3>
